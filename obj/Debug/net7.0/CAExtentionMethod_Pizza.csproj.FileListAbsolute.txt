@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\bin\Debug\net7.0\CAExtentionMethod_Pizza.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\bin\Debug\net7.0\CAExtentionMethod_Pizza.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\bin\Debug\net7.0\CAExtentionMethod_Pizza.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\bin\Debug\net7.0\CAExtentionMethod_Pizza.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\bin\Debug\net7.0\CAExtentionMethod_Pizza.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\obj\Debug\net7.0\CAExtentionMethod_Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\obj\Debug\net7.0\CAExtentionMethod_Pizza.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\obj\Debug\net7.0\CAExtentionMethod_Pizza.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\obj\Debug\net7.0\CAExtentionMethod_Pizza.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\obj\Debug\net7.0\CAExtentionMethod_Pizza.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\obj\Debug\net7.0\refint\CAExtentionMethod_Pizza.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\obj\Debug\net7.0\CAExtentionMethod_Pizza.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\obj\Debug\net7.0\CAExtentionMethod_Pizza.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExtentionMethod_Pizza\obj\Debug\net7.0\ref\CAExtentionMethod_Pizza.dll
